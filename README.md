@@ -1,15 +1,10 @@
-<!--
-╔══════════════════════════════════════════════════════════════╗
-║  PROFILE README // APRISTHAIS-PNG                         ║
-║  THEME: AI • DATA • CYBERPUNK • JARVIS                     ║
-╚══════════════════════════════════════════════════════════════╝
--->
+<!-- PROFILE README | apristhais-png -->
 
 <div align="center">
 
 > SYSTEM://PRISCILA_MONSUETO
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=%5B+BOOTING+PROFILE...+%5D;%5B+LOADING+PYTHON+%2B+SQL...+%5D;%5B+SYNCING+DATA+%2B+AI+MODULES...+%5D;%5B+SYSTEM+ONLINE+%E2%9C%93+%5D;Engenharia+de+Dados+%7C+Python+%7C+SQL+%7C+IA;Construindo.+Testando.+Aprendendo.+Evoluindo." alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=%5B+BOOTING+PROFILE...+%5D;%5B+LOADING+PYTHON+%2B+SQL...+%5D;%5B+SYNCING+DATA+%2B+AI+MODULES...+%5D;%5B+SYSTEM+ONLINE+%E2%9C%93+%5D;Engenharia+de+Dados+%7C+Python+%7C+SQL+%7C+IA;Construindo.+Testando.+Aprendendo.+Evoluindo." alt="Typing Animation" />
 
 <br/>
 
@@ -73,24 +68,13 @@ CREATE • INSERT • SELECT • WHERE • UPDATE • DELETE • COUNT • SUM �
 
 
 
-
 </div>
 
 04 // PROJETOS
 
-<div align="center">
-
-<a href="https://github.com/apristhais-png/calculadora-python-sql">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=apristhais-png&repo=calculadora-python-sql&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF00E6&text_color=C9D1D9" />
-</a>
-
-</div>
-
-<br/>
-
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 CALCULADORA_MARKETING
 
@@ -103,7 +87,20 @@ CRUD, dashboard, histórico, métricas e gráfico de orçamentos.
 → acessar projeto
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
+
+PRIMEIRO_PROJETO
+
+Status: DEPLOYED ✓
+
+Projeto introdutório em Python para coleta, armazenamento, análise e visualização de dados.
+
+→ acessar projeto
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ANALISADOR_VENDAS
 
@@ -114,17 +111,15 @@ Próximo laboratório para praticar CSV, limpeza, análise e consultas SQL.
 Python • SQL • Dados
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 MINI_ETL
 
 Status: ROADMAP
 
-Projeto para praticar:
-
 Extract → Transform → Load
 
-e consolidar fundamentos de Engenharia de Dados.
+Projeto futuro para consolidar fundamentos de Engenharia de Dados.
 
 </td>
 </tr>
@@ -145,17 +140,19 @@ STATUS: ███████░░░ LEARNING IN PROGRESS...
 
 06 // GITHUB_ANALYTICS
 
+Alguns cards abaixo dependem de serviços externos. Se algum ficar temporariamente indisponível, o README continua funcionando normalmente.
+
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=apristhais-png&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF00E6&text_color=C9D1D9&rank_icon=github" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=apristhais-png&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF00E6&text_color=C9D1D9" alt="GitHub Stats" />
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apristhais-png&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apristhais-png&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=apristhais-png&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF00E6&currStreakLabel=00F7FF" />
+<img src="https://streak-stats.demolab.com?user=apristhais-png&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF00E6&currStreakLabel=00F7FF" alt="GitHub Streak" />
 
 </div>
 
@@ -163,7 +160,7 @@ STATUS: ███████░░░ LEARNING IN PROGRESS...
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=apristhais-png&bg_color=0D1117&color=00F7FF&line=FF00E6&point=FFFFFF&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=apristhais-png&bg_color=0D1117&color=00F7FF&line=FF00E6&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 
 </div>
 
@@ -171,7 +168,7 @@ STATUS: ███████░░░ LEARNING IN PROGRESS...
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=apristhais-png&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=apristhais-png&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1" alt="GitHub Trophies" />
 
 </div>
 
@@ -183,19 +180,25 @@ STATUS: ███████░░░ LEARNING IN PROGRESS...
 
 </div>
 
+A cobrinha só aparece depois que o workflow snake.yml rodar pelo menos uma vez.
+
 10 // NETWORK
 
 <div align="center">
 
 <a href="https://github.com/apristhais-png">
-  <img src="https://img.shields.io/badge/GitHub-apristhais-png-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" />
+  <img src="https://img.shields.io/badge/GitHub-apristhais--png-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-<!-- Troque SEU-USUARIO pelo seu LinkedIn -->
+<a href="mailto:apristhais@gmail.com">
+  <img src="https://img.shields.io/badge/Email-CONTATO-0D1117?style=for-the-badge&logo=gmail&logoColor=00F7FF" alt="Email" />
+</a>
 
+<!-- QUANDO TIVER O LINK DO LINKEDIN, REMOVA ESTE COMENTÁRIO E USE:
 <a href="https://www.linkedin.com/in/SEU-USUARIO/">
-  <img src="https://img.shields.io/badge/LinkedIn-CONECTAR-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF" />
+  <img src="https://img.shields.io/badge/LinkedIn-CONECTAR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+-->
 
 </div>
 
